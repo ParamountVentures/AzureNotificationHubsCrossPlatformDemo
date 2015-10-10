@@ -12,15 +12,16 @@
         document.addEventListener( 'pause', onPause.bind( this ), false );
         document.addEventListener('resume', onResume.bind(this), false);
 
+		var connectionString = "Endpoint=sb://gccnotify.servicebus.windows.net/;SharedAccessKeyName=DefaultListenSharedAccessSignature;SharedAccessKey=jyNcl/Z8Qho8w668fMtdAuQrbhg+YHTAuKPTryZ4fMk=";
+		var notificationHubPath = "test";
+		var tags = ["tag_a", "tag_b", "tab_c"];
+		var senderId = 1082522035766;
+		
+		var hub = new WindowsAzure.Messaging.NotificationHub(notificationHubPath, connectionString);
+		
         if (device.platform == "windows") {
-
-            // TODO: Cordova has been loaded. Perform any initialization that requires Cordova here.
-            var connectionString = "Endpoint=sb://gccnotify.servicebus.windows.net/;SharedAccessKeyName=DefaultListenSharedAccessSignature;SharedAccessKey=jyNcl/Z8Qho8w668fMtdAuQrbhg+YHTAuKPTryZ4fMk=";
-            var notificationHubPath = "test";
-
-            var hub = new WindowsAzure.Messaging.NotificationHub(notificationHubPath, connectionString);
-
-            hub.registerApplicationAsync().then(function (result) {
+          
+            hub.registerApplicationAsync(tags).then(function (result) {
                 console.log("Registration successful: " + result.registrationId);
             });
 
@@ -34,7 +35,7 @@
                   connectionString,
                   {
                       "android": {
-                          "senderID": "1082522035766"
+                          "senderID": senderId
                       },
                       "ios": {}
                   });
