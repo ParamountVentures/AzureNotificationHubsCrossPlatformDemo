@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d7353903-902e-4123-90dd-ab6ef80205c6" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/ventures.paramount.phonegap.notificationhub/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/ventures.paramount.phonegap.notificationhub/MIT-LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/ventures.paramount.phonegap.notificationhub/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/ventures.paramount.phonegap.notificationhub/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/ventures.paramount.phonegap.notificationhub/plugin.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/ventures.paramount.phonegap.notificationhub/src/android/libs/android-support-v13.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/ventures.paramount.phonegap.notificationhub/src/android/libs/gcm.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/ventures.paramount.phonegap.notificationhub/src/android/libs/google-play-services.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/ventures.paramount.phonegap.notificationhub/src/android/libs/notification-hubs-0.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/ventures.paramount.phonegap.notificationhub/src/android/ventures/paramount/phonegap/notificationhub/CordovaGCMBroadcastReceiver.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/ventures.paramount.phonegap.notificationhub/src/android/ventures/paramount/phonegap/notificationhub/GCMIntentService.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/ventures.paramount.phonegap.notificationhub/src/android/ventures/paramount/phonegap/notificationhub/NotificationHubHandlerActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/ventures.paramount.phonegap.notificationhub/src/android/ventures/paramount/phonegap/notificationhub/NotificationHubPlugin.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/ventures.paramount.phonegap.notificationhub/src/ios/AppDelegate+notification.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/ventures.paramount.phonegap.notificationhub/src/ios/AppDelegate+notification.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/ventures.paramount.phonegap.notificationhub/src/ios/NotificationHubPlugin.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/ventures.paramount.phonegap.notificationhub/src/ios/NotificationHubPlugin.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/ventures.paramount.phonegap.notificationhub/src/ios/WindowsAzureMessaging.framework/Headers/SBConnectionString.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/ventures.paramount.phonegap.notificationhub/src/ios/WindowsAzureMessaging.framework/Headers/SBLocalStorage.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/ventures.paramount.phonegap.notificationhub/src/ios/WindowsAzureMessaging.framework/Headers/SBNotificationHub.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/ventures.paramount.phonegap.notificationhub/src/ios/WindowsAzureMessaging.framework/Headers/SBRegistration.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/ventures.paramount.phonegap.notificationhub/src/ios/WindowsAzureMessaging.framework/Headers/SBStoredRegistrationEntry.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/ventures.paramount.phonegap.notificationhub/src/ios/WindowsAzureMessaging.framework/Headers/SBTokenProvider.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/ventures.paramount.phonegap.notificationhub/src/ios/WindowsAzureMessaging.framework/Headers/WindowsAzureMessaging.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/ventures.paramount.phonegap.notificationhub/src/ios/WindowsAzureMessaging.framework/Versions/A/Headers/SBConnectionString.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/ventures.paramount.phonegap.notificationhub/src/ios/WindowsAzureMessaging.framework/Versions/A/Headers/SBLocalStorage.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/ventures.paramount.phonegap.notificationhub/src/ios/WindowsAzureMessaging.framework/Versions/A/Headers/SBNotificationHub.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/ventures.paramount.phonegap.notificationhub/src/ios/WindowsAzureMessaging.framework/Versions/A/Headers/SBRegistration.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/ventures.paramount.phonegap.notificationhub/src/ios/WindowsAzureMessaging.framework/Versions/A/Headers/SBStoredRegistrationEntry.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/ventures.paramount.phonegap.notificationhub/src/ios/WindowsAzureMessaging.framework/Versions/A/Headers/SBTokenProvider.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/ventures.paramount.phonegap.notificationhub/src/ios/WindowsAzureMessaging.framework/Versions/A/Headers/WindowsAzureMessaging.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/ventures.paramount.phonegap.notificationhub/src/ios/WindowsAzureMessaging.framework/Versions/A/WindowsAzureMessaging" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/ventures.paramount.phonegap.notificationhub/src/ios/WindowsAzureMessaging.framework/Versions/Current/Headers/SBConnectionString.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/ventures.paramount.phonegap.notificationhub/src/ios/WindowsAzureMessaging.framework/Versions/Current/Headers/SBLocalStorage.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/ventures.paramount.phonegap.notificationhub/src/ios/WindowsAzureMessaging.framework/Versions/Current/Headers/SBNotificationHub.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/ventures.paramount.phonegap.notificationhub/src/ios/WindowsAzureMessaging.framework/Versions/Current/Headers/SBRegistration.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/ventures.paramount.phonegap.notificationhub/src/ios/WindowsAzureMessaging.framework/Versions/Current/Headers/SBStoredRegistrationEntry.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/ventures.paramount.phonegap.notificationhub/src/ios/WindowsAzureMessaging.framework/Versions/Current/Headers/SBTokenProvider.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/ventures.paramount.phonegap.notificationhub/src/ios/WindowsAzureMessaging.framework/Versions/Current/Headers/WindowsAzureMessaging.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/ventures.paramount.phonegap.notificationhub/src/ios/WindowsAzureMessaging.framework/Versions/Current/WindowsAzureMessaging" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/ventures.paramount.phonegap.notificationhub/src/ios/WindowsAzureMessaging.framework/WindowsAzureMessaging" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/ventures.paramount.phonegap.notificationhub/src/ios/libWindowsAzureMessaging.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/ventures.paramount.phonegap.notificationhub/src/windows/Microsoft.WindowsAzure.Messaging.Managed.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/ventures.paramount.phonegap.notificationhub/src/windows/NotificationHubProxy.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/ventures.paramount.phonegap.notificationhub/src/windows/NotificationHubRuntimeProxy.winmd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/ventures.paramount.phonegap.notificationhub/src/windows/NotificationHubRuntimeProxy/.vs/NotificationHubRuntimeProxy/v14/.suo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/ventures.paramount.phonegap.notificationhub/src/windows/NotificationHubRuntimeProxy/HubApi.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/ventures.paramount.phonegap.notificationhub/src/windows/NotificationHubRuntimeProxy/NotificationHubRuntimeProxy.csproj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/ventures.paramount.phonegap.notificationhub/src/windows/NotificationHubRuntimeProxy/NotificationHubRuntimeProxy.sln" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/ventures.paramount.phonegap.notificationhub/src/windows/NotificationHubRuntimeProxy/Properties/AssemblyInfo.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/ventures.paramount.phonegap.notificationhub/src/windows/NotificationHubRuntimeProxy/bin/Debug/Microsoft.WindowsAzure.Messaging.Managed.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/ventures.paramount.phonegap.notificationhub/src/windows/NotificationHubRuntimeProxy/bin/Debug/Microsoft.WindowsAzure.Messaging.Managed.pri" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/ventures.paramount.phonegap.notificationhub/src/windows/NotificationHubRuntimeProxy/bin/Debug/NotificationHubRuntimeProxy.pdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/ventures.paramount.phonegap.notificationhub/src/windows/NotificationHubRuntimeProxy/bin/Debug/NotificationHubRuntimeProxy.pri" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/ventures.paramount.phonegap.notificationhub/src/windows/NotificationHubRuntimeProxy/bin/Debug/NotificationHubRuntimeProxy.winmd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/ventures.paramount.phonegap.notificationhub/src/windows/NotificationHubRuntimeProxy/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/ventures.paramount.phonegap.notificationhub/src/windows/NotificationHubRuntimeProxy/obj/Debug/MultipleQualifiersPerDimensionFound.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/ventures.paramount.phonegap.notificationhub/src/windows/NotificationHubRuntimeProxy/obj/Debug/NotificationHubRuntimeProxy.compile.pdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/ventures.paramount.phonegap.notificationhub/src/windows/NotificationHubRuntimeProxy/obj/Debug/NotificationHubRuntimeProxy.csproj.FileListAbsolute.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/ventures.paramount.phonegap.notificationhub/src/windows/NotificationHubRuntimeProxy/obj/Debug/NotificationHubRuntimeProxy.pdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/ventures.paramount.phonegap.notificationhub/src/windows/NotificationHubRuntimeProxy/obj/Debug/NotificationHubRuntimeProxy.winmd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/ventures.paramount.phonegap.notificationhub/src/windows/NotificationHubRuntimeProxy/obj/Debug/NotificationHubRuntimeProxy.winmdobj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/ventures.paramount.phonegap.notificationhub/src/windows/NotificationHubRuntimeProxy/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/ventures.paramount.phonegap.notificationhub/src/windows/NotificationHubRuntimeProxy/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/ventures.paramount.phonegap.notificationhub/src/windows/NotificationHubRuntimeProxy/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/ventures.paramount.phonegap.notificationhub/src/windows/NotificationHubRuntimeProxy/obj/Debug/layout.resfiles" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/ventures.paramount.phonegap.notificationhub/src/windows/NotificationHubRuntimeProxy/obj/Debug/layout.resfiles.intermediate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/ventures.paramount.phonegap.notificationhub/src/windows/NotificationHubRuntimeProxy/obj/Debug/pri.resfiles" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/ventures.paramount.phonegap.notificationhub/src/windows/NotificationHubRuntimeProxy/obj/Debug/pri.resfiles.intermediate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/ventures.paramount.phonegap.notificationhub/src/windows/NotificationHubRuntimeProxy/obj/Debug/priconfig.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/ventures.paramount.phonegap.notificationhub/src/windows/NotificationHubRuntimeProxy/obj/Debug/priconfig.xml.intermediate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/ventures.paramount.phonegap.notificationhub/src/windows/NotificationHubRuntimeProxy/obj/Debug/qualifiers.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/ventures.paramount.phonegap.notificationhub/src/windows/NotificationHubRuntimeProxy/obj/Debug/qualifiers.txt.intermediate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/ventures.paramount.phonegap.notificationhub/src/windows/NotificationHubRuntimeProxy/obj/Debug/resources.resfiles" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/ventures.paramount.phonegap.notificationhub/src/windows/NotificationHubRuntimeProxy/obj/Debug/resources.resfiles.intermediate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/ventures.paramount.phonegap.notificationhub/src/windows/NotificationHubRuntimeProxy/packages.config" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/ventures.paramount.phonegap.notificationhub/src/windows/NotificationHubRuntimeProxy/packages/WindowsAzure.Messaging.Managed.0.1.7.9/WindowsAzure.Messaging.Managed.0.1.7.9.nupkg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/ventures.paramount.phonegap.notificationhub/src/windows/NotificationHubRuntimeProxy/packages/WindowsAzure.Messaging.Managed.0.1.7.9/lib/netcore45/Microsoft.WindowsAzure.Messaging.Managed.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/ventures.paramount.phonegap.notificationhub/src/windows/NotificationHubRuntimeProxy/packages/WindowsAzure.Messaging.Managed.0.1.7.9/lib/netcore45/Microsoft.WindowsAzure.Messaging.Managed.pri" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/ventures.paramount.phonegap.notificationhub/src/windows/NotificationHubRuntimeProxy/packages/WindowsAzure.Messaging.Managed.0.1.7.9/lib/windowsphone8/Microsoft.WindowsAzure.Messaging.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/ventures.paramount.phonegap.notificationhub/src/windows/NotificationHubRuntimeProxy/packages/WindowsAzure.Messaging.Managed.0.1.7.9/lib/wpa81/Microsoft.WindowsAzure.Messaging.Managed.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/ventures.paramount.phonegap.notificationhub/src/windows/NotificationHubRuntimeProxy/packages/WindowsAzure.Messaging.Managed.0.1.7.9/lib/wpa81/Microsoft.WindowsAzure.Messaging.Managed.pri" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/ventures.paramount.phonegap.notificationhub/src/windows/PushPluginProxy.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/ventures.paramount.phonegap.notificationhub/www/NotificationHub.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/ventures.paramount.phonegap.notificationhub/www/Promise.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/ventures.paramount.phonegap.notificationhub/www/notification.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/fetch.json" afterPath="$PROJECT_DIR$/plugins/fetch.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/scripts/index.js" afterPath="$PROJECT_DIR$/www/scripts/index.js" />
+    </list>
+    <ignored path="AzureNotificationHubsCrossPlatformDemo.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="AzureNotificationHubsCrossPlatformDemo" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/scripts/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="46" column="34" selection-start-line="46" selection-start-column="34" selection-end-line="46" selection-end-column="34" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fetch.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/plugins/fetch.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.24711697">
+              <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/www/scripts/index.js" />
+        <option value="$PROJECT_DIR$/plugins/fetch.json" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="728" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AzureNotificationHubsCrossPlatformDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AzureNotificationHubsCrossPlatformDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AzureNotificationHubsCrossPlatformDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AzureNotificationHubsCrossPlatformDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AzureNotificationHubsCrossPlatformDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AzureNotificationHubsCrossPlatformDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AzureNotificationHubsCrossPlatformDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AzureNotificationHubsCrossPlatformDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AzureNotificationHubsCrossPlatformDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="plugins" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="settings.meteor" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JsTestDriver-test-runner" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="Chrome" />
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d7353903-902e-4123-90dd-ab6ef80205c6" name="Default" comment="" />
+      <created>1444493252749</created>
+      <option name="number" value="Default" />
+      <updated>1444493252749</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="728" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/www/scripts/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/scripts/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="46" column="34" selection-start-line="46" selection-start-column="34" selection-end-line="46" selection-end-column="34" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/fetch.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.24711697">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -17,11 +17,12 @@
 		var tags = ["tag_a", "tag_b", "tab_c"];
 		var senderId = 1082522035766;
 		
-		var hub = new WindowsAzure.Messaging.NotificationHub(notificationHubPath, connectionString);
-		
+
         if (device.platform == "windows") {
-          
-            hub.registerApplicationAsync(tags).then(function (result) {
+
+          var hub = new WindowsAzure.Messaging.NotificationHub(notificationHubPath, connectionString);
+
+          hub.registerApplicationAsync(tags).then(function (result) {
                 console.log("Registration successful: " + result.registrationId);
             });
 
@@ -33,6 +34,7 @@
             try {
                 var hub = NotificationHub.init(notificationHubPath,
                   connectionString,
+                  tags,
                   {
                       "android": {
                           "senderID": senderId
